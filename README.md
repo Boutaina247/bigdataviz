@@ -30,7 +30,7 @@ test ping from namenode to spark-master
 
 -> apt-get python3 
 
-* Copy file from locale to namenode hadoop machine 
+* Copy file from locale to namenode hadoop machine (les 3 fichiers)
 
 ->  docker cp "C:\MASTER\Master1\Semestre1\Big Data & DataViz\test_project\Données\Donnees\objets-trouves-restitution.csv" namenode:/root/
 
